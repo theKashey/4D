@@ -6,4 +6,4 @@
 - Parser - shader file parsers.
 - Textures - textures
 
-[logo](http://www.kashey.ru/mimg/blop_noscene.JPG)
+![logo](http://www.kashey.ru/mimg/blop_noscene.JPG)
