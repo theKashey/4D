@@ -19,3 +19,15 @@ Everything else.. lost forever.
 
 # Plugins
  everything external. 
+ 
+ [quest](http://www.kashey.ru/mimg/Z.jpg)
+ 
+ [render](http://www.kashey.ru/mimg/03_kuhnya.jpg)
+ 
+ 
+ [ultima](http://www.kashey.ru/mimg/123.jpg)
+ 
+ [render](http://www.kashey.ru/mimg/234.jpg)
+ 
+ [3d](http://www.kashey.ru/mimg/blop_noscene.JPG)
+ 
